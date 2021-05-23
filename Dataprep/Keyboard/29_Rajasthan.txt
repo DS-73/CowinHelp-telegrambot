@@ -1,0 +1,69 @@
+[
+[
+InlineKeyboardButton('Ajmer', callback_data='Ajmer-507'),
+InlineKeyboardButton('Alwar', callback_data='Alwar-512'),
+],
+[
+InlineKeyboardButton('Banswara', callback_data='Banswara-519'),
+InlineKeyboardButton('Baran', callback_data='Baran-516'),
+],
+[
+InlineKeyboardButton('Barmer', callback_data='Barmer-528'),
+InlineKeyboardButton('Bharatpur', callback_data='Bharatpur-508'),
+],
+[
+InlineKeyboardButton('Bhilwara', callback_data='Bhilwara-523'),
+InlineKeyboardButton('Bikaner', callback_data='Bikaner-501'),
+],
+[
+InlineKeyboardButton('Bundi', callback_data='Bundi-514'),
+InlineKeyboardButton('Chittorgarh', callback_data='Chittorgarh-521'),
+],
+[
+InlineKeyboardButton('Churu', callback_data='Churu-530'),
+InlineKeyboardButton('Dausa', callback_data='Dausa-511'),
+],
+[
+InlineKeyboardButton('Dholpur', callback_data='Dholpur-524'),
+InlineKeyboardButton('Dungarpur', callback_data='Dungarpur-520'),
+],
+[
+InlineKeyboardButton('Hanumangarh', callback_data='Hanumangarh-517'),
+InlineKeyboardButton('Jaipur I', callback_data='Jaipur I-505'),
+],
+[
+InlineKeyboardButton('Jaipur II', callback_data='Jaipur II-506'),
+InlineKeyboardButton('Jaisalmer', callback_data='Jaisalmer-527'),
+],
+[
+InlineKeyboardButton('Jalore', callback_data='Jalore-533'),
+InlineKeyboardButton('Jhalawar', callback_data='Jhalawar-515'),
+],
+[
+InlineKeyboardButton('Jhunjhunu', callback_data='Jhunjhunu-510'),
+InlineKeyboardButton('Jodhpur', callback_data='Jodhpur-502'),
+],
+[
+InlineKeyboardButton('Karauli', callback_data='Karauli-525'),
+InlineKeyboardButton('Kota', callback_data='Kota-503'),
+],
+[
+InlineKeyboardButton('Nagaur', callback_data='Nagaur-532'),
+InlineKeyboardButton('Pali', callback_data='Pali-529'),
+],
+[
+InlineKeyboardButton('Pratapgarh', callback_data='Pratapgarh-522'),
+InlineKeyboardButton('Rajsamand', callback_data='Rajsamand-518'),
+],
+[
+InlineKeyboardButton('Sawai Madhopur', callback_data='Sawai Madhopur-534'),
+InlineKeyboardButton('Sikar', callback_data='Sikar-513'),
+],
+[
+InlineKeyboardButton('Sirohi', callback_data='Sirohi-531'),
+InlineKeyboardButton('Sri Ganganagar', callback_data='Sri Ganganagar-509'),
+],
+[
+InlineKeyboardButton('Tonk', callback_data='Tonk-526'),
+InlineKeyboardButton('Udaipur', callback_data='Udaipur-504'),
+]

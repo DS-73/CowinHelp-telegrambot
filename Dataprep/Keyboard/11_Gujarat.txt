@@ -1,0 +1,85 @@
+[
+[
+InlineKeyboardButton('Ahmedabad', callback_data='Ahmedabad-154'),
+InlineKeyboardButton('Ahmedabad Corporation', callback_data='Ahmedabad Corporation-770'),
+],
+[
+InlineKeyboardButton('Amreli', callback_data='Amreli-174'),
+InlineKeyboardButton('Anand', callback_data='Anand-179'),
+],
+[
+InlineKeyboardButton('Aravalli', callback_data='Aravalli-158'),
+InlineKeyboardButton('Banaskantha', callback_data='Banaskantha-159'),
+],
+[
+InlineKeyboardButton('Bharuch', callback_data='Bharuch-180'),
+InlineKeyboardButton('Bhavnagar', callback_data='Bhavnagar-175'),
+],
+[
+InlineKeyboardButton('Bhavnagar Corporation', callback_data='Bhavnagar Corporation-771'),
+InlineKeyboardButton('Botad', callback_data='Botad-176'),
+],
+[
+InlineKeyboardButton('Chhotaudepur', callback_data='Chhotaudepur-181'),
+InlineKeyboardButton('Dahod', callback_data='Dahod-182'),
+],
+[
+InlineKeyboardButton('Dang', callback_data='Dang-163'),
+InlineKeyboardButton('Devbhumi Dwaraka', callback_data='Devbhumi Dwaraka-168'),
+],
+[
+InlineKeyboardButton('Gandhinagar', callback_data='Gandhinagar-153'),
+InlineKeyboardButton('Gandhinagar Corporation', callback_data='Gandhinagar Corporation-772'),
+],
+[
+InlineKeyboardButton('Gir Somnath', callback_data='Gir Somnath-177'),
+InlineKeyboardButton('Jamnagar', callback_data='Jamnagar-169'),
+],
+[
+InlineKeyboardButton('Jamnagar Corporation', callback_data='Jamnagar Corporation-773'),
+InlineKeyboardButton('Junagadh', callback_data='Junagadh-178'),
+],
+[
+InlineKeyboardButton('Junagadh Corporation', callback_data='Junagadh Corporation-774'),
+InlineKeyboardButton('Kheda', callback_data='Kheda-156'),
+],
+[
+InlineKeyboardButton('Kutch', callback_data='Kutch-170'),
+InlineKeyboardButton('Mahisagar', callback_data='Mahisagar-183'),
+],
+[
+InlineKeyboardButton('Mehsana', callback_data='Mehsana-160'),
+InlineKeyboardButton('Morbi', callback_data='Morbi-171'),
+],
+[
+InlineKeyboardButton('Narmada', callback_data='Narmada-184'),
+InlineKeyboardButton('Navsari', callback_data='Navsari-164'),
+],
+[
+InlineKeyboardButton('Panchmahal', callback_data='Panchmahal-185'),
+InlineKeyboardButton('Patan', callback_data='Patan-161'),
+],
+[
+InlineKeyboardButton('Porbandar', callback_data='Porbandar-172'),
+InlineKeyboardButton('Rajkot', callback_data='Rajkot-173'),
+],
+[
+InlineKeyboardButton('Rajkot Corporation', callback_data='Rajkot Corporation-775'),
+InlineKeyboardButton('Sabarkantha', callback_data='Sabarkantha-162'),
+],
+[
+InlineKeyboardButton('Surat', callback_data='Surat-165'),
+InlineKeyboardButton('Surat Corporation', callback_data='Surat Corporation-776'),
+],
+[
+InlineKeyboardButton('Surendranagar', callback_data='Surendranagar-157'),
+InlineKeyboardButton('Tapi', callback_data='Tapi-166'),
+],
+[
+InlineKeyboardButton('Vadodara', callback_data='Vadodara-155'),
+InlineKeyboardButton('Vadodara Corporation', callback_data='Vadodara Corporation-777'),
+],
+[
+InlineKeyboardButton('Valsad', callback_data='Valsad-167'),
+]
+]

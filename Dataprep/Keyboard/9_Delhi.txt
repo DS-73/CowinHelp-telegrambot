@@ -1,0 +1,25 @@
+[
+[
+InlineKeyboardButton('Central Delhi', callback_data='Central Delhi-141'),
+InlineKeyboardButton('East Delhi', callback_data='East Delhi-145'),
+],
+[
+InlineKeyboardButton('New Delhi', callback_data='New Delhi-140'),
+InlineKeyboardButton('North Delhi', callback_data='North Delhi-146'),
+],
+[
+InlineKeyboardButton('North East Delhi', callback_data='North East Delhi-147'),
+InlineKeyboardButton('North West Delhi', callback_data='North West Delhi-143'),
+],
+[
+InlineKeyboardButton('Shahdara', callback_data='Shahdara-148'),
+InlineKeyboardButton('South Delhi', callback_data='South Delhi-149'),
+],
+[
+InlineKeyboardButton('South East Delhi', callback_data='South East Delhi-144'),
+InlineKeyboardButton('South West Delhi', callback_data='South West Delhi-150'),
+],
+[
+InlineKeyboardButton('West Delhi', callback_data='West Delhi-142'),
+]
+]

@@ -1,0 +1,35 @@
+ district_id  district_name
+         507          Ajmer
+         512          Alwar
+         519       Banswara
+         516          Baran
+         528         Barmer
+         508      Bharatpur
+         523       Bhilwara
+         501        Bikaner
+         514          Bundi
+         521    Chittorgarh
+         530          Churu
+         511          Dausa
+         524        Dholpur
+         520      Dungarpur
+         517    Hanumangarh
+         505       Jaipur I
+         506      Jaipur II
+         527      Jaisalmer
+         533         Jalore
+         515       Jhalawar
+         510      Jhunjhunu
+         502        Jodhpur
+         525        Karauli
+         503           Kota
+         532         Nagaur
+         529           Pali
+         522     Pratapgarh
+         518      Rajsamand
+         534 Sawai Madhopur
+         513          Sikar
+         531         Sirohi
+         509 Sri Ganganagar
+         526           Tonk
+         504        Udaipur

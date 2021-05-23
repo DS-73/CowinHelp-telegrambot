@@ -1,0 +1,21 @@
+[
+[
+InlineKeyboardButton('Aizawl East', callback_data='Aizawl East-425'),
+InlineKeyboardButton('Aizawl West', callback_data='Aizawl West-426'),
+],
+[
+InlineKeyboardButton('Champhai', callback_data='Champhai-429'),
+InlineKeyboardButton('Kolasib', callback_data='Kolasib-428'),
+],
+[
+InlineKeyboardButton('Lawngtlai', callback_data='Lawngtlai-432'),
+InlineKeyboardButton('Lunglei', callback_data='Lunglei-431'),
+],
+[
+InlineKeyboardButton('Mamit', callback_data='Mamit-427'),
+InlineKeyboardButton('Serchhip', callback_data='Serchhip-430'),
+],
+[
+InlineKeyboardButton('Siaha', callback_data='Siaha-433'),
+]
+]

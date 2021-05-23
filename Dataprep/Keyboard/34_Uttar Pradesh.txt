@@ -1,0 +1,153 @@
+[
+[
+InlineKeyboardButton('Agra', callback_data='Agra-622'),
+InlineKeyboardButton('Aligarh', callback_data='Aligarh-623'),
+],
+[
+InlineKeyboardButton('Ambedkar Nagar', callback_data='Ambedkar Nagar-625'),
+InlineKeyboardButton('Amethi', callback_data='Amethi-626'),
+],
+[
+InlineKeyboardButton('Amroha', callback_data='Amroha-627'),
+InlineKeyboardButton('Auraiya', callback_data='Auraiya-628'),
+],
+[
+InlineKeyboardButton('Ayodhya', callback_data='Ayodhya-646'),
+InlineKeyboardButton('Azamgarh', callback_data='Azamgarh-629'),
+],
+[
+InlineKeyboardButton('Badaun', callback_data='Badaun-630'),
+InlineKeyboardButton('Baghpat', callback_data='Baghpat-631'),
+],
+[
+InlineKeyboardButton('Bahraich', callback_data='Bahraich-632'),
+InlineKeyboardButton('Balarampur', callback_data='Balarampur-633'),
+],
+[
+InlineKeyboardButton('Ballia', callback_data='Ballia-634'),
+InlineKeyboardButton('Banda', callback_data='Banda-635'),
+],
+[
+InlineKeyboardButton('Barabanki', callback_data='Barabanki-636'),
+InlineKeyboardButton('Bareilly', callback_data='Bareilly-637'),
+],
+[
+InlineKeyboardButton('Basti', callback_data='Basti-638'),
+InlineKeyboardButton('Bhadohi', callback_data='Bhadohi-687'),
+],
+[
+InlineKeyboardButton('Bijnour', callback_data='Bijnour-639'),
+InlineKeyboardButton('Bulandshahr', callback_data='Bulandshahr-640'),
+],
+[
+InlineKeyboardButton('Chandauli', callback_data='Chandauli-641'),
+InlineKeyboardButton('Chitrakoot', callback_data='Chitrakoot-642'),
+],
+[
+InlineKeyboardButton('Deoria', callback_data='Deoria-643'),
+InlineKeyboardButton('Etah', callback_data='Etah-644'),
+],
+[
+InlineKeyboardButton('Etawah', callback_data='Etawah-645'),
+InlineKeyboardButton('Farrukhabad', callback_data='Farrukhabad-647'),
+],
+[
+InlineKeyboardButton('Fatehpur', callback_data='Fatehpur-648'),
+InlineKeyboardButton('Firozabad', callback_data='Firozabad-649'),
+],
+[
+InlineKeyboardButton('Gautam Buddha Nagar', callback_data='Gautam Buddha Nagar-650'),
+InlineKeyboardButton('Ghaziabad', callback_data='Ghaziabad-651'),
+],
+[
+InlineKeyboardButton('Ghazipur', callback_data='Ghazipur-652'),
+InlineKeyboardButton('Gonda', callback_data='Gonda-653'),
+],
+[
+InlineKeyboardButton('Gorakhpur', callback_data='Gorakhpur-654'),
+InlineKeyboardButton('Hamirpur', callback_data='Hamirpur-655'),
+],
+[
+InlineKeyboardButton('Hapur', callback_data='Hapur-656'),
+InlineKeyboardButton('Hardoi', callback_data='Hardoi-657'),
+],
+[
+InlineKeyboardButton('Hathras', callback_data='Hathras-658'),
+InlineKeyboardButton('Jalaun', callback_data='Jalaun-659'),
+],
+[
+InlineKeyboardButton('Jaunpur', callback_data='Jaunpur-660'),
+InlineKeyboardButton('Jhansi', callback_data='Jhansi-661'),
+],
+[
+InlineKeyboardButton('Kannauj', callback_data='Kannauj-662'),
+InlineKeyboardButton('Kanpur Dehat', callback_data='Kanpur Dehat-663'),
+],
+[
+InlineKeyboardButton('Kanpur Nagar', callback_data='Kanpur Nagar-664'),
+InlineKeyboardButton('Kasganj', callback_data='Kasganj-665'),
+],
+[
+InlineKeyboardButton('Kaushambi', callback_data='Kaushambi-666'),
+InlineKeyboardButton('Kushinagar', callback_data='Kushinagar-667'),
+],
+[
+InlineKeyboardButton('Lakhimpur Kheri', callback_data='Lakhimpur Kheri-668'),
+InlineKeyboardButton('Lalitpur', callback_data='Lalitpur-669'),
+],
+[
+InlineKeyboardButton('Lucknow', callback_data='Lucknow-670'),
+InlineKeyboardButton('Maharajganj', callback_data='Maharajganj-671'),
+],
+[
+InlineKeyboardButton('Mahoba', callback_data='Mahoba-672'),
+InlineKeyboardButton('Mainpuri', callback_data='Mainpuri-673'),
+],
+[
+InlineKeyboardButton('Mathura', callback_data='Mathura-674'),
+InlineKeyboardButton('Mau', callback_data='Mau-675'),
+],
+[
+InlineKeyboardButton('Meerut', callback_data='Meerut-676'),
+InlineKeyboardButton('Mirzapur', callback_data='Mirzapur-677'),
+],
+[
+InlineKeyboardButton('Moradabad', callback_data='Moradabad-678'),
+InlineKeyboardButton('Muzaffarnagar', callback_data='Muzaffarnagar-679'),
+],
+[
+InlineKeyboardButton('Pilibhit', callback_data='Pilibhit-680'),
+InlineKeyboardButton('Pratapgarh', callback_data='Pratapgarh-682'),
+],
+[
+InlineKeyboardButton('Prayagraj', callback_data='Prayagraj-624'),
+InlineKeyboardButton('Raebareli', callback_data='Raebareli-681'),
+],
+[
+InlineKeyboardButton('Rampur', callback_data='Rampur-683'),
+InlineKeyboardButton('Saharanpur', callback_data='Saharanpur-684'),
+],
+[
+InlineKeyboardButton('Sambhal', callback_data='Sambhal-685'),
+InlineKeyboardButton('Sant Kabir Nagar', callback_data='Sant Kabir Nagar-686'),
+],
+[
+InlineKeyboardButton('Shahjahanpur', callback_data='Shahjahanpur-688'),
+InlineKeyboardButton('Shamli', callback_data='Shamli-689'),
+],
+[
+InlineKeyboardButton('Shravasti', callback_data='Shravasti-690'),
+InlineKeyboardButton('Siddharthnagar', callback_data='Siddharthnagar-691'),
+],
+[
+InlineKeyboardButton('Sitapur', callback_data='Sitapur-692'),
+InlineKeyboardButton('Sonbhadra', callback_data='Sonbhadra-693'),
+],
+[
+InlineKeyboardButton('Sultanpur', callback_data='Sultanpur-694'),
+InlineKeyboardButton('Unnao', callback_data='Unnao-695'),
+],
+[
+InlineKeyboardButton('Varanasi', callback_data='Varanasi-696'),
+]
+]

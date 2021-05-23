@@ -1,0 +1,73 @@
+[
+[
+InlineKeyboardButton('Ahmednagar', callback_data='Ahmednagar-391'),
+InlineKeyboardButton('Akola', callback_data='Akola-364'),
+],
+[
+InlineKeyboardButton('Amravati', callback_data='Amravati-366'),
+InlineKeyboardButton('Aurangabad ', callback_data='Aurangabad -397'),
+],
+[
+InlineKeyboardButton('Beed', callback_data='Beed-384'),
+InlineKeyboardButton('Bhandara', callback_data='Bhandara-370'),
+],
+[
+InlineKeyboardButton('Buldhana', callback_data='Buldhana-367'),
+InlineKeyboardButton('Chandrapur', callback_data='Chandrapur-380'),
+],
+[
+InlineKeyboardButton('Dhule', callback_data='Dhule-388'),
+InlineKeyboardButton('Gadchiroli', callback_data='Gadchiroli-379'),
+],
+[
+InlineKeyboardButton('Gondia', callback_data='Gondia-378'),
+InlineKeyboardButton('Hingoli', callback_data='Hingoli-386'),
+],
+[
+InlineKeyboardButton('Jalgaon', callback_data='Jalgaon-390'),
+InlineKeyboardButton('Jalna', callback_data='Jalna-396'),
+],
+[
+InlineKeyboardButton('Kolhapur', callback_data='Kolhapur-371'),
+InlineKeyboardButton('Latur', callback_data='Latur-383'),
+],
+[
+InlineKeyboardButton('Mumbai', callback_data='Mumbai-395'),
+InlineKeyboardButton('Nagpur', callback_data='Nagpur-365'),
+],
+[
+InlineKeyboardButton('Nanded', callback_data='Nanded-382'),
+InlineKeyboardButton('Nandurbar', callback_data='Nandurbar-387'),
+],
+[
+InlineKeyboardButton('Nashik', callback_data='Nashik-389'),
+InlineKeyboardButton('Osmanabad', callback_data='Osmanabad-381'),
+],
+[
+InlineKeyboardButton('Palghar', callback_data='Palghar-394'),
+InlineKeyboardButton('Parbhani', callback_data='Parbhani-385'),
+],
+[
+InlineKeyboardButton('Pune', callback_data='Pune-363'),
+InlineKeyboardButton('Raigad', callback_data='Raigad-393'),
+],
+[
+InlineKeyboardButton('Ratnagiri', callback_data='Ratnagiri-372'),
+InlineKeyboardButton('Sangli', callback_data='Sangli-373'),
+],
+[
+InlineKeyboardButton('Satara', callback_data='Satara-376'),
+InlineKeyboardButton('Sindhudurg', callback_data='Sindhudurg-374'),
+],
+[
+InlineKeyboardButton('Solapur', callback_data='Solapur-375'),
+InlineKeyboardButton('Thane', callback_data='Thane-392'),
+],
+[
+InlineKeyboardButton('Wardha', callback_data='Wardha-377'),
+InlineKeyboardButton('Washim', callback_data='Washim-369'),
+],
+[
+InlineKeyboardButton('Yavatmal', callback_data='Yavatmal-368'),
+]
+]

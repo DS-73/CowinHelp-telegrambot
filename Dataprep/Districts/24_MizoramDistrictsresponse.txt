@@ -1,0 +1,10 @@
+ district_id district_name
+         425   Aizawl East
+         426   Aizawl West
+         429      Champhai
+         428       Kolasib
+         432     Lawngtlai
+         431       Lunglei
+         427         Mamit
+         430      Serchhip
+         433         Siaha

@@ -1,0 +1,61 @@
+[
+[
+InlineKeyboardButton('Angul', callback_data='Angul-445'),
+InlineKeyboardButton('Balangir', callback_data='Balangir-448'),
+],
+[
+InlineKeyboardButton('Balasore', callback_data='Balasore-447'),
+InlineKeyboardButton('Bargarh', callback_data='Bargarh-472'),
+],
+[
+InlineKeyboardButton('Bhadrak', callback_data='Bhadrak-454'),
+InlineKeyboardButton('Boudh', callback_data='Boudh-468'),
+],
+[
+InlineKeyboardButton('Cuttack', callback_data='Cuttack-457'),
+InlineKeyboardButton('Deogarh', callback_data='Deogarh-473'),
+],
+[
+InlineKeyboardButton('Dhenkanal', callback_data='Dhenkanal-458'),
+InlineKeyboardButton('Gajapati', callback_data='Gajapati-467'),
+],
+[
+InlineKeyboardButton('Ganjam', callback_data='Ganjam-449'),
+InlineKeyboardButton('Jagatsinghpur', callback_data='Jagatsinghpur-459'),
+],
+[
+InlineKeyboardButton('Jajpur', callback_data='Jajpur-460'),
+InlineKeyboardButton('Jharsuguda', callback_data='Jharsuguda-474'),
+],
+[
+InlineKeyboardButton('Kalahandi', callback_data='Kalahandi-464'),
+InlineKeyboardButton('Kandhamal', callback_data='Kandhamal-450'),
+],
+[
+InlineKeyboardButton('Kendrapara', callback_data='Kendrapara-461'),
+InlineKeyboardButton('Kendujhar', callback_data='Kendujhar-455'),
+],
+[
+InlineKeyboardButton('Khurda', callback_data='Khurda-446'),
+InlineKeyboardButton('Koraput', callback_data='Koraput-451'),
+],
+[
+InlineKeyboardButton('Malkangiri', callback_data='Malkangiri-469'),
+InlineKeyboardButton('Mayurbhanj', callback_data='Mayurbhanj-456'),
+],
+[
+InlineKeyboardButton('Nabarangpur', callback_data='Nabarangpur-470'),
+InlineKeyboardButton('Nayagarh', callback_data='Nayagarh-462'),
+],
+[
+InlineKeyboardButton('Nuapada', callback_data='Nuapada-465'),
+InlineKeyboardButton('Puri', callback_data='Puri-463'),
+],
+[
+InlineKeyboardButton('Rayagada', callback_data='Rayagada-471'),
+InlineKeyboardButton('Sambalpur', callback_data='Sambalpur-452'),
+],
+[
+InlineKeyboardButton('Subarnapur', callback_data='Subarnapur-466'),
+InlineKeyboardButton('Sundargarh', callback_data='Sundargarh-453'),
+]

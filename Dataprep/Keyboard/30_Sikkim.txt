@@ -1,0 +1,9 @@
+[
+[
+InlineKeyboardButton('East Sikkim', callback_data='East Sikkim-535'),
+InlineKeyboardButton('North Sikkim', callback_data='North Sikkim-537'),
+],
+[
+InlineKeyboardButton('South Sikkim', callback_data='South Sikkim-538'),
+InlineKeyboardButton('West Sikkim', callback_data='West Sikkim-536'),
+]

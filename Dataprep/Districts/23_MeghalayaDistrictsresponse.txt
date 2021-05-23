@@ -1,0 +1,12 @@
+ district_id          district_name
+         424        East Garo Hills
+         418     East Jaintia Hills
+         414       East Khasi Hills
+         423       North Garo Hills
+         417                Ri-Bhoi
+         421       South Garo Hills
+         422  South West Garo Hills
+         415 South West Khasi Hills
+         420        West Garo Hills
+         416     West Jaintia Hills
+         419       West Khasi Hills

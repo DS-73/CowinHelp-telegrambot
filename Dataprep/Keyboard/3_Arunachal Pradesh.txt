@@ -1,0 +1,53 @@
+[
+[
+InlineKeyboardButton('Anjaw', callback_data='Anjaw-22'),
+InlineKeyboardButton('Changlang', callback_data='Changlang-20'),
+],
+[
+InlineKeyboardButton('Dibang Valley', callback_data='Dibang Valley-25'),
+InlineKeyboardButton('East Kameng', callback_data='East Kameng-23'),
+],
+[
+InlineKeyboardButton('East Siang', callback_data='East Siang-42'),
+InlineKeyboardButton('Itanagar Capital Complex', callback_data='Itanagar Capital Complex-17'),
+],
+[
+InlineKeyboardButton('Kamle', callback_data='Kamle-24'),
+InlineKeyboardButton('Kra Daadi', callback_data='Kra Daadi-27'),
+],
+[
+InlineKeyboardButton('Kurung Kumey', callback_data='Kurung Kumey-21'),
+InlineKeyboardButton('Lepa Rada', callback_data='Lepa Rada-33'),
+],
+[
+InlineKeyboardButton('Lohit', callback_data='Lohit-29'),
+InlineKeyboardButton('Longding', callback_data='Longding-40'),
+],
+[
+InlineKeyboardButton('Lower Dibang Valley', callback_data='Lower Dibang Valley-31'),
+InlineKeyboardButton('Lower Siang', callback_data='Lower Siang-18'),
+],
+[
+InlineKeyboardButton('Lower Subansiri', callback_data='Lower Subansiri-32'),
+InlineKeyboardButton('Namsai', callback_data='Namsai-36'),
+],
+[
+InlineKeyboardButton('Pakke Kessang', callback_data='Pakke Kessang-19'),
+InlineKeyboardButton('Papum Pare', callback_data='Papum Pare-39'),
+],
+[
+InlineKeyboardButton('Shi Yomi', callback_data='Shi Yomi-35'),
+InlineKeyboardButton('Siang', callback_data='Siang-37'),
+],
+[
+InlineKeyboardButton('Tawang', callback_data='Tawang-30'),
+InlineKeyboardButton('Tirap', callback_data='Tirap-26'),
+],
+[
+InlineKeyboardButton('Upper Siang', callback_data='Upper Siang-34'),
+InlineKeyboardButton('Upper Subansiri', callback_data='Upper Subansiri-41'),
+],
+[
+InlineKeyboardButton('West Kameng', callback_data='West Kameng-28'),
+InlineKeyboardButton('West Siang', callback_data='West Siang-38'),
+]

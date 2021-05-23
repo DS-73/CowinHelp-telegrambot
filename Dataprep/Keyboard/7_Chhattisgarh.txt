@@ -1,0 +1,57 @@
+[
+[
+InlineKeyboardButton('Balod', callback_data='Balod-110'),
+InlineKeyboardButton('Baloda bazar', callback_data='Baloda bazar-111'),
+],
+[
+InlineKeyboardButton('Balrampur', callback_data='Balrampur-112'),
+InlineKeyboardButton('Bastar', callback_data='Bastar-113'),
+],
+[
+InlineKeyboardButton('Bemetara', callback_data='Bemetara-114'),
+InlineKeyboardButton('Bijapur', callback_data='Bijapur-115'),
+],
+[
+InlineKeyboardButton('Bilaspur', callback_data='Bilaspur-116'),
+InlineKeyboardButton('Dantewada', callback_data='Dantewada-117'),
+],
+[
+InlineKeyboardButton('Dhamtari', callback_data='Dhamtari-118'),
+InlineKeyboardButton('Durg', callback_data='Durg-119'),
+],
+[
+InlineKeyboardButton('Gariaband', callback_data='Gariaband-120'),
+InlineKeyboardButton('Gaurela Pendra Marwahi ', callback_data='Gaurela Pendra Marwahi -136'),
+],
+[
+InlineKeyboardButton('Janjgir-Champa', callback_data='Janjgir-Champa-121'),
+InlineKeyboardButton('Jashpur', callback_data='Jashpur-122'),
+],
+[
+InlineKeyboardButton('Kanker', callback_data='Kanker-123'),
+InlineKeyboardButton('Kawardha', callback_data='Kawardha-135'),
+],
+[
+InlineKeyboardButton('Kondagaon', callback_data='Kondagaon-124'),
+InlineKeyboardButton('Korba', callback_data='Korba-125'),
+],
+[
+InlineKeyboardButton('Koriya', callback_data='Koriya-126'),
+InlineKeyboardButton('Mahasamund', callback_data='Mahasamund-127'),
+],
+[
+InlineKeyboardButton('Mungeli', callback_data='Mungeli-128'),
+InlineKeyboardButton('Narayanpur', callback_data='Narayanpur-129'),
+],
+[
+InlineKeyboardButton('Raigarh', callback_data='Raigarh-130'),
+InlineKeyboardButton('Raipur', callback_data='Raipur-109'),
+],
+[
+InlineKeyboardButton('Rajnandgaon', callback_data='Rajnandgaon-131'),
+InlineKeyboardButton('Sukma', callback_data='Sukma-132'),
+],
+[
+InlineKeyboardButton('Surajpur', callback_data='Surajpur-133'),
+InlineKeyboardButton('Surguja', callback_data='Surguja-134'),
+]

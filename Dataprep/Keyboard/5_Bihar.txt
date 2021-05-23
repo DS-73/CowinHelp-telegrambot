@@ -1,0 +1,77 @@
+[
+[
+InlineKeyboardButton('Araria', callback_data='Araria-74'),
+InlineKeyboardButton('Arwal', callback_data='Arwal-78'),
+],
+[
+InlineKeyboardButton('Aurangabad', callback_data='Aurangabad-77'),
+InlineKeyboardButton('Banka', callback_data='Banka-83'),
+],
+[
+InlineKeyboardButton('Begusarai', callback_data='Begusarai-98'),
+InlineKeyboardButton('Bhagalpur', callback_data='Bhagalpur-82'),
+],
+[
+InlineKeyboardButton('Bhojpur', callback_data='Bhojpur-99'),
+InlineKeyboardButton('Buxar', callback_data='Buxar-100'),
+],
+[
+InlineKeyboardButton('Darbhanga', callback_data='Darbhanga-94'),
+InlineKeyboardButton('East Champaran', callback_data='East Champaran-105'),
+],
+[
+InlineKeyboardButton('Gaya', callback_data='Gaya-79'),
+InlineKeyboardButton('Gopalganj', callback_data='Gopalganj-104'),
+],
+[
+InlineKeyboardButton('Jamui', callback_data='Jamui-107'),
+InlineKeyboardButton('Jehanabad', callback_data='Jehanabad-91'),
+],
+[
+InlineKeyboardButton('Kaimur', callback_data='Kaimur-80'),
+InlineKeyboardButton('Katihar', callback_data='Katihar-75'),
+],
+[
+InlineKeyboardButton('Khagaria', callback_data='Khagaria-101'),
+InlineKeyboardButton('Kishanganj', callback_data='Kishanganj-76'),
+],
+[
+InlineKeyboardButton('Lakhisarai', callback_data='Lakhisarai-84'),
+InlineKeyboardButton('Madhepura', callback_data='Madhepura-70'),
+],
+[
+InlineKeyboardButton('Madhubani', callback_data='Madhubani-95'),
+InlineKeyboardButton('Munger', callback_data='Munger-85'),
+],
+[
+InlineKeyboardButton('Muzaffarpur', callback_data='Muzaffarpur-86'),
+InlineKeyboardButton('Nalanda', callback_data='Nalanda-90'),
+],
+[
+InlineKeyboardButton('Nawada', callback_data='Nawada-92'),
+InlineKeyboardButton('Patna', callback_data='Patna-97'),
+],
+[
+InlineKeyboardButton('Purnia', callback_data='Purnia-73'),
+InlineKeyboardButton('Rohtas', callback_data='Rohtas-81'),
+],
+[
+InlineKeyboardButton('Saharsa', callback_data='Saharsa-71'),
+InlineKeyboardButton('Samastipur', callback_data='Samastipur-96'),
+],
+[
+InlineKeyboardButton('Saran', callback_data='Saran-102'),
+InlineKeyboardButton('Sheikhpura', callback_data='Sheikhpura-93'),
+],
+[
+InlineKeyboardButton('Sheohar', callback_data='Sheohar-87'),
+InlineKeyboardButton('Sitamarhi', callback_data='Sitamarhi-88'),
+],
+[
+InlineKeyboardButton('Siwan', callback_data='Siwan-103'),
+InlineKeyboardButton('Supaul', callback_data='Supaul-72'),
+],
+[
+InlineKeyboardButton('Vaishali', callback_data='Vaishali-89'),
+InlineKeyboardButton('West Champaran', callback_data='West Champaran-106'),
+]

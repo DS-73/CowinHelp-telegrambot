@@ -1,0 +1,34 @@
+ district_id           district_name
+          46                   Baksa
+          47                 Barpeta
+         765               Biswanath
+          57              Bongaigaon
+          66                  Cachar
+         766               Charaideo
+          58                 Chirang
+          48                 Darrang
+          62                 Dhemaji
+          59                  Dhubri
+          43               Dibrugarh
+          67              Dima Hasao
+          60                Goalpara
+          53                Golaghat
+          68              Hailakandi
+         764                   Hojai
+          54                  Jorhat
+          49     Kamrup Metropolitan
+          50            Kamrup Rural
+          51           Karbi-Anglong
+          69               Karimganj
+          61               Kokrajhar
+          63               Lakhimpur
+         767                  Majuli
+          55                Morigaon
+          56                  Nagaon
+          52                 Nalbari
+          44               Sivasagar
+          64                Sonitpur
+         768 South Salmara Mankachar
+          45                Tinsukia
+          65                Udalguri
+         769      West Karbi Anglong

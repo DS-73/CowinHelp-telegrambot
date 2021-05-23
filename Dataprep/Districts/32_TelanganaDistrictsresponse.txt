@@ -1,0 +1,34 @@
+ district_id           district_name
+         582                Adilabad
+         583    Bhadradri Kothagudem
+         581               Hyderabad
+         584                 Jagtial
+         585                 Jangaon
+         586 Jayashankar Bhupalpally
+         587        Jogulamba Gadwal
+         588               Kamareddy
+         589              Karimnagar
+         590                 Khammam
+         591           Kumuram Bheem
+         592             Mahabubabad
+         593            Mahabubnagar
+         594              Mancherial
+         595                   Medak
+         596                 Medchal
+         612                  Mulugu
+         597            Nagarkurnool
+         598                Nalgonda
+         613              Narayanpet
+         599                  Nirmal
+         600               Nizamabad
+         601              Peddapalli
+         602        Rajanna Sircilla
+         603              Rangareddy
+         604              Sangareddy
+         605                Siddipet
+         606                Suryapet
+         607               Vikarabad
+         608              Wanaparthy
+         609         Warangal(Rural)
+         610         Warangal(Urban)
+         611     Yadadri Bhuvanagiri

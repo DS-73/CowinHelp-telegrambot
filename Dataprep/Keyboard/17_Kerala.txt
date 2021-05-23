@@ -1,0 +1,29 @@
+[
+[
+InlineKeyboardButton('Alappuzha', callback_data='Alappuzha-301'),
+InlineKeyboardButton('Ernakulam', callback_data='Ernakulam-307'),
+],
+[
+InlineKeyboardButton('Idukki', callback_data='Idukki-306'),
+InlineKeyboardButton('Kannur', callback_data='Kannur-297'),
+],
+[
+InlineKeyboardButton('Kasaragod', callback_data='Kasaragod-295'),
+InlineKeyboardButton('Kollam', callback_data='Kollam-298'),
+],
+[
+InlineKeyboardButton('Kottayam', callback_data='Kottayam-304'),
+InlineKeyboardButton('Kozhikode', callback_data='Kozhikode-305'),
+],
+[
+InlineKeyboardButton('Malappuram', callback_data='Malappuram-302'),
+InlineKeyboardButton('Palakkad', callback_data='Palakkad-308'),
+],
+[
+InlineKeyboardButton('Pathanamthitta', callback_data='Pathanamthitta-300'),
+InlineKeyboardButton('Thiruvananthapuram', callback_data='Thiruvananthapuram-296'),
+],
+[
+InlineKeyboardButton('Thrissur', callback_data='Thrissur-303'),
+InlineKeyboardButton('Wayanad', callback_data='Wayanad-299'),
+]

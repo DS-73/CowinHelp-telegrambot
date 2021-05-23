@@ -1,0 +1,17 @@
+[
+[
+InlineKeyboardButton('Dhalai', callback_data='Dhalai-614'),
+InlineKeyboardButton('Gomati', callback_data='Gomati-615'),
+],
+[
+InlineKeyboardButton('Khowai', callback_data='Khowai-616'),
+InlineKeyboardButton('North Tripura', callback_data='North Tripura-617'),
+],
+[
+InlineKeyboardButton('Sepahijala', callback_data='Sepahijala-618'),
+InlineKeyboardButton('South Tripura', callback_data='South Tripura-619'),
+],
+[
+InlineKeyboardButton('Unakoti', callback_data='Unakoti-620'),
+InlineKeyboardButton('West Tripura', callback_data='West Tripura-621'),
+]

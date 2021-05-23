@@ -1,0 +1,45 @@
+[
+[
+InlineKeyboardButton('Amritsar', callback_data='Amritsar-485'),
+InlineKeyboardButton('Barnala', callback_data='Barnala-483'),
+],
+[
+InlineKeyboardButton('Bathinda', callback_data='Bathinda-493'),
+InlineKeyboardButton('Faridkot', callback_data='Faridkot-499'),
+],
+[
+InlineKeyboardButton('Fatehgarh Sahib', callback_data='Fatehgarh Sahib-484'),
+InlineKeyboardButton('Fazilka', callback_data='Fazilka-487'),
+],
+[
+InlineKeyboardButton('Ferozpur', callback_data='Ferozpur-480'),
+InlineKeyboardButton('Gurdaspur', callback_data='Gurdaspur-489'),
+],
+[
+InlineKeyboardButton('Hoshiarpur', callback_data='Hoshiarpur-481'),
+InlineKeyboardButton('Jalandhar', callback_data='Jalandhar-492'),
+],
+[
+InlineKeyboardButton('Kapurthala', callback_data='Kapurthala-479'),
+InlineKeyboardButton('Ludhiana', callback_data='Ludhiana-488'),
+],
+[
+InlineKeyboardButton('Mansa', callback_data='Mansa-482'),
+InlineKeyboardButton('Moga', callback_data='Moga-491'),
+],
+[
+InlineKeyboardButton('Pathankot', callback_data='Pathankot-486'),
+InlineKeyboardButton('Patiala', callback_data='Patiala-494'),
+],
+[
+InlineKeyboardButton('Rup Nagar', callback_data='Rup Nagar-497'),
+InlineKeyboardButton('Sangrur', callback_data='Sangrur-498'),
+],
+[
+InlineKeyboardButton('SAS Nagar', callback_data='SAS Nagar-496'),
+InlineKeyboardButton('SBS Nagar', callback_data='SBS Nagar-500'),
+],
+[
+InlineKeyboardButton('Sri Muktsar Sahib', callback_data='Sri Muktsar Sahib-490'),
+InlineKeyboardButton('Tarn Taran', callback_data='Tarn Taran-495'),
+]

@@ -1,0 +1,69 @@
+[
+[
+InlineKeyboardButton('Baksa', callback_data='Baksa-46'),
+InlineKeyboardButton('Barpeta', callback_data='Barpeta-47'),
+],
+[
+InlineKeyboardButton('Biswanath', callback_data='Biswanath-765'),
+InlineKeyboardButton('Bongaigaon', callback_data='Bongaigaon-57'),
+],
+[
+InlineKeyboardButton('Cachar', callback_data='Cachar-66'),
+InlineKeyboardButton('Charaideo', callback_data='Charaideo-766'),
+],
+[
+InlineKeyboardButton('Chirang', callback_data='Chirang-58'),
+InlineKeyboardButton('Darrang', callback_data='Darrang-48'),
+],
+[
+InlineKeyboardButton('Dhemaji', callback_data='Dhemaji-62'),
+InlineKeyboardButton('Dhubri', callback_data='Dhubri-59'),
+],
+[
+InlineKeyboardButton('Dibrugarh', callback_data='Dibrugarh-43'),
+InlineKeyboardButton('Dima Hasao', callback_data='Dima Hasao-67'),
+],
+[
+InlineKeyboardButton('Goalpara', callback_data='Goalpara-60'),
+InlineKeyboardButton('Golaghat', callback_data='Golaghat-53'),
+],
+[
+InlineKeyboardButton('Hailakandi', callback_data='Hailakandi-68'),
+InlineKeyboardButton('Hojai', callback_data='Hojai-764'),
+],
+[
+InlineKeyboardButton('Jorhat', callback_data='Jorhat-54'),
+InlineKeyboardButton('Kamrup Metropolitan', callback_data='Kamrup Metropolitan-49'),
+],
+[
+InlineKeyboardButton('Kamrup Rural', callback_data='Kamrup Rural-50'),
+InlineKeyboardButton('Karbi-Anglong', callback_data='Karbi-Anglong-51'),
+],
+[
+InlineKeyboardButton('Karimganj', callback_data='Karimganj-69'),
+InlineKeyboardButton('Kokrajhar', callback_data='Kokrajhar-61'),
+],
+[
+InlineKeyboardButton('Lakhimpur', callback_data='Lakhimpur-63'),
+InlineKeyboardButton('Majuli', callback_data='Majuli-767'),
+],
+[
+InlineKeyboardButton('Morigaon', callback_data='Morigaon-55'),
+InlineKeyboardButton('Nagaon', callback_data='Nagaon-56'),
+],
+[
+InlineKeyboardButton('Nalbari', callback_data='Nalbari-52'),
+InlineKeyboardButton('Sivasagar', callback_data='Sivasagar-44'),
+],
+[
+InlineKeyboardButton('Sonitpur', callback_data='Sonitpur-64'),
+InlineKeyboardButton('South Salmara Mankachar', callback_data='South Salmara Mankachar-768'),
+],
+[
+InlineKeyboardButton('Tinsukia', callback_data='Tinsukia-45'),
+InlineKeyboardButton('Udalguri', callback_data='Udalguri-65'),
+],
+[
+InlineKeyboardButton('West Karbi Anglong', callback_data='West Karbi Anglong-769'),
+]
+]

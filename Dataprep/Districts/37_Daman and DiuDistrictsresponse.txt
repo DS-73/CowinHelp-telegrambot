@@ -1,0 +1,3 @@
+ district_id district_name
+         138         Daman
+         139           Diu

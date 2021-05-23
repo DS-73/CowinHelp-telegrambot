@@ -1,0 +1,5 @@
+[
+[
+InlineKeyboardButton('Agatti Island', callback_data='Agatti Island-796'),
+InlineKeyboardButton('Lakshadweep', callback_data='Lakshadweep-311'),
+]

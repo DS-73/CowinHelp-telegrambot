@@ -1,0 +1,25 @@
+[
+[
+InlineKeyboardButton('Bilaspur', callback_data='Bilaspur-219'),
+InlineKeyboardButton('Chamba', callback_data='Chamba-214'),
+],
+[
+InlineKeyboardButton('Hamirpur', callback_data='Hamirpur-217'),
+InlineKeyboardButton('Kangra', callback_data='Kangra-213'),
+],
+[
+InlineKeyboardButton('Kinnaur', callback_data='Kinnaur-216'),
+InlineKeyboardButton('Kullu', callback_data='Kullu-211'),
+],
+[
+InlineKeyboardButton('Lahaul Spiti', callback_data='Lahaul Spiti-210'),
+InlineKeyboardButton('Mandi', callback_data='Mandi-215'),
+],
+[
+InlineKeyboardButton('Shimla', callback_data='Shimla-208'),
+InlineKeyboardButton('Sirmaur', callback_data='Sirmaur-212'),
+],
+[
+InlineKeyboardButton('Solan', callback_data='Solan-209'),
+InlineKeyboardButton('Una', callback_data='Una-218'),
+]

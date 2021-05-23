@@ -1,0 +1,69 @@
+[
+[
+InlineKeyboardButton('Adilabad', callback_data='Adilabad-582'),
+InlineKeyboardButton('Bhadradri Kothagudem', callback_data='Bhadradri Kothagudem-583'),
+],
+[
+InlineKeyboardButton('Hyderabad', callback_data='Hyderabad-581'),
+InlineKeyboardButton('Jagtial', callback_data='Jagtial-584'),
+],
+[
+InlineKeyboardButton('Jangaon', callback_data='Jangaon-585'),
+InlineKeyboardButton('Jayashankar Bhupalpally', callback_data='Jayashankar Bhupalpally-586'),
+],
+[
+InlineKeyboardButton('Jogulamba Gadwal', callback_data='Jogulamba Gadwal-587'),
+InlineKeyboardButton('Kamareddy', callback_data='Kamareddy-588'),
+],
+[
+InlineKeyboardButton('Karimnagar', callback_data='Karimnagar-589'),
+InlineKeyboardButton('Khammam', callback_data='Khammam-590'),
+],
+[
+InlineKeyboardButton('Kumuram Bheem', callback_data='Kumuram Bheem-591'),
+InlineKeyboardButton('Mahabubabad', callback_data='Mahabubabad-592'),
+],
+[
+InlineKeyboardButton('Mahabubnagar', callback_data='Mahabubnagar-593'),
+InlineKeyboardButton('Mancherial', callback_data='Mancherial-594'),
+],
+[
+InlineKeyboardButton('Medak', callback_data='Medak-595'),
+InlineKeyboardButton('Medchal', callback_data='Medchal-596'),
+],
+[
+InlineKeyboardButton('Mulugu', callback_data='Mulugu-612'),
+InlineKeyboardButton('Nagarkurnool', callback_data='Nagarkurnool-597'),
+],
+[
+InlineKeyboardButton('Nalgonda', callback_data='Nalgonda-598'),
+InlineKeyboardButton('Narayanpet', callback_data='Narayanpet-613'),
+],
+[
+InlineKeyboardButton('Nirmal', callback_data='Nirmal-599'),
+InlineKeyboardButton('Nizamabad', callback_data='Nizamabad-600'),
+],
+[
+InlineKeyboardButton('Peddapalli', callback_data='Peddapalli-601'),
+InlineKeyboardButton('Rajanna Sircilla', callback_data='Rajanna Sircilla-602'),
+],
+[
+InlineKeyboardButton('Rangareddy', callback_data='Rangareddy-603'),
+InlineKeyboardButton('Sangareddy', callback_data='Sangareddy-604'),
+],
+[
+InlineKeyboardButton('Siddipet', callback_data='Siddipet-605'),
+InlineKeyboardButton('Suryapet', callback_data='Suryapet-606'),
+],
+[
+InlineKeyboardButton('Vikarabad', callback_data='Vikarabad-607'),
+InlineKeyboardButton('Wanaparthy', callback_data='Wanaparthy-608'),
+],
+[
+InlineKeyboardButton('Warangal(Rural)', callback_data='Warangal(Rural)-609'),
+InlineKeyboardButton('Warangal(Urban)', callback_data='Warangal(Urban)-610'),
+],
+[
+InlineKeyboardButton('Yadadri Bhuvanagiri', callback_data='Yadadri Bhuvanagiri-611'),
+]
+]

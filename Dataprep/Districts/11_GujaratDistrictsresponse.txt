@@ -1,0 +1,42 @@
+ district_id           district_name
+         154               Ahmedabad
+         770   Ahmedabad Corporation
+         174                  Amreli
+         179                   Anand
+         158                Aravalli
+         159             Banaskantha
+         180                 Bharuch
+         175               Bhavnagar
+         771   Bhavnagar Corporation
+         176                   Botad
+         181            Chhotaudepur
+         182                   Dahod
+         163                    Dang
+         168        Devbhumi Dwaraka
+         153             Gandhinagar
+         772 Gandhinagar Corporation
+         177             Gir Somnath
+         169                Jamnagar
+         773    Jamnagar Corporation
+         178                Junagadh
+         774    Junagadh Corporation
+         156                   Kheda
+         170                   Kutch
+         183               Mahisagar
+         160                 Mehsana
+         171                   Morbi
+         184                 Narmada
+         164                 Navsari
+         185              Panchmahal
+         161                   Patan
+         172               Porbandar
+         173                  Rajkot
+         775      Rajkot Corporation
+         162             Sabarkantha
+         165                   Surat
+         776       Surat Corporation
+         157           Surendranagar
+         166                    Tapi
+         155                Vadodara
+         777    Vadodara Corporation
+         167                  Valsad

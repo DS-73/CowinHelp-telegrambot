@@ -1,0 +1,6 @@
+[
+[
+InlineKeyboardButton('North Goa', callback_data='North Goa-151'),
+InlineKeyboardButton('South Goa', callback_data='South Goa-152'),
+]
+]

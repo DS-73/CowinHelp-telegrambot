@@ -1,0 +1,9 @@
+[
+[
+InlineKeyboardButton('Nicobar', callback_data='Nicobar-3'),
+InlineKeyboardButton('North and Middle Andaman', callback_data='North and Middle Andaman-1'),
+],
+[
+InlineKeyboardButton('South Andaman', callback_data='South Andaman-2'),
+]
+]

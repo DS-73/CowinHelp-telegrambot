@@ -1,0 +1,3 @@
+ district_id district_name
+         796 Agatti Island
+         311   Lakshadweep

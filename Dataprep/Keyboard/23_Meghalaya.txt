@@ -1,0 +1,25 @@
+[
+[
+InlineKeyboardButton('East Garo Hills', callback_data='East Garo Hills-424'),
+InlineKeyboardButton('East Jaintia Hills', callback_data='East Jaintia Hills-418'),
+],
+[
+InlineKeyboardButton('East Khasi Hills', callback_data='East Khasi Hills-414'),
+InlineKeyboardButton('North Garo Hills', callback_data='North Garo Hills-423'),
+],
+[
+InlineKeyboardButton('Ri-Bhoi', callback_data='Ri-Bhoi-417'),
+InlineKeyboardButton('South Garo Hills', callback_data='South Garo Hills-421'),
+],
+[
+InlineKeyboardButton('South West Garo Hills', callback_data='South West Garo Hills-422'),
+InlineKeyboardButton('South West Khasi Hills', callback_data='South West Khasi Hills-415'),
+],
+[
+InlineKeyboardButton('West Garo Hills', callback_data='West Garo Hills-420'),
+InlineKeyboardButton('West Jaintia Hills', callback_data='West Jaintia Hills-416'),
+],
+[
+InlineKeyboardButton('West Khasi Hills', callback_data='West Khasi Hills-419'),
+]
+]

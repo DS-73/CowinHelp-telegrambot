@@ -1,0 +1,41 @@
+[
+[
+InlineKeyboardButton('Anantnag', callback_data='Anantnag-224'),
+InlineKeyboardButton('Bandipore', callback_data='Bandipore-223'),
+],
+[
+InlineKeyboardButton('Baramulla', callback_data='Baramulla-225'),
+InlineKeyboardButton('Budgam', callback_data='Budgam-229'),
+],
+[
+InlineKeyboardButton('Doda', callback_data='Doda-232'),
+InlineKeyboardButton('Ganderbal', callback_data='Ganderbal-228'),
+],
+[
+InlineKeyboardButton('Jammu', callback_data='Jammu-230'),
+InlineKeyboardButton('Kathua', callback_data='Kathua-234'),
+],
+[
+InlineKeyboardButton('Kishtwar', callback_data='Kishtwar-231'),
+InlineKeyboardButton('Kulgam', callback_data='Kulgam-221'),
+],
+[
+InlineKeyboardButton('Kupwara', callback_data='Kupwara-226'),
+InlineKeyboardButton('Poonch', callback_data='Poonch-238'),
+],
+[
+InlineKeyboardButton('Pulwama', callback_data='Pulwama-227'),
+InlineKeyboardButton('Rajouri', callback_data='Rajouri-237'),
+],
+[
+InlineKeyboardButton('Ramban', callback_data='Ramban-235'),
+InlineKeyboardButton('Reasi', callback_data='Reasi-239'),
+],
+[
+InlineKeyboardButton('Samba', callback_data='Samba-236'),
+InlineKeyboardButton('Shopian', callback_data='Shopian-222'),
+],
+[
+InlineKeyboardButton('Srinagar', callback_data='Srinagar-220'),
+InlineKeyboardButton('Udhampur', callback_data='Udhampur-233'),
+]

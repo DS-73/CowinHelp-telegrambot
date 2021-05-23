@@ -1,0 +1,33 @@
+[
+[
+InlineKeyboardButton('Bishnupur', callback_data='Bishnupur-398'),
+InlineKeyboardButton('Chandel', callback_data='Chandel-399'),
+],
+[
+InlineKeyboardButton('Churachandpur', callback_data='Churachandpur-400'),
+InlineKeyboardButton('Imphal East', callback_data='Imphal East-401'),
+],
+[
+InlineKeyboardButton('Imphal West', callback_data='Imphal West-402'),
+InlineKeyboardButton('Jiribam', callback_data='Jiribam-410'),
+],
+[
+InlineKeyboardButton('Kakching', callback_data='Kakching-413'),
+InlineKeyboardButton('Kamjong', callback_data='Kamjong-409'),
+],
+[
+InlineKeyboardButton('Kangpokpi', callback_data='Kangpokpi-408'),
+InlineKeyboardButton('Noney', callback_data='Noney-412'),
+],
+[
+InlineKeyboardButton('Pherzawl', callback_data='Pherzawl-411'),
+InlineKeyboardButton('Senapati', callback_data='Senapati-403'),
+],
+[
+InlineKeyboardButton('Tamenglong', callback_data='Tamenglong-404'),
+InlineKeyboardButton('Tengnoupal', callback_data='Tengnoupal-407'),
+],
+[
+InlineKeyboardButton('Thoubal', callback_data='Thoubal-405'),
+InlineKeyboardButton('Ukhrul', callback_data='Ukhrul-406'),
+]

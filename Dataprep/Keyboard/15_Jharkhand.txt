@@ -1,0 +1,49 @@
+[
+[
+InlineKeyboardButton('Bokaro', callback_data='Bokaro-242'),
+InlineKeyboardButton('Chatra', callback_data='Chatra-245'),
+],
+[
+InlineKeyboardButton('Deoghar', callback_data='Deoghar-253'),
+InlineKeyboardButton('Dhanbad', callback_data='Dhanbad-257'),
+],
+[
+InlineKeyboardButton('Dumka', callback_data='Dumka-258'),
+InlineKeyboardButton('East Singhbhum', callback_data='East Singhbhum-247'),
+],
+[
+InlineKeyboardButton('Garhwa', callback_data='Garhwa-243'),
+InlineKeyboardButton('Giridih', callback_data='Giridih-256'),
+],
+[
+InlineKeyboardButton('Godda', callback_data='Godda-262'),
+InlineKeyboardButton('Gumla', callback_data='Gumla-251'),
+],
+[
+InlineKeyboardButton('Hazaribagh', callback_data='Hazaribagh-255'),
+InlineKeyboardButton('Jamtara', callback_data='Jamtara-259'),
+],
+[
+InlineKeyboardButton('Khunti', callback_data='Khunti-252'),
+InlineKeyboardButton('Koderma', callback_data='Koderma-241'),
+],
+[
+InlineKeyboardButton('Latehar', callback_data='Latehar-244'),
+InlineKeyboardButton('Lohardaga', callback_data='Lohardaga-250'),
+],
+[
+InlineKeyboardButton('Pakur', callback_data='Pakur-261'),
+InlineKeyboardButton('Palamu', callback_data='Palamu-246'),
+],
+[
+InlineKeyboardButton('Ramgarh', callback_data='Ramgarh-254'),
+InlineKeyboardButton('Ranchi', callback_data='Ranchi-240'),
+],
+[
+InlineKeyboardButton('Sahebganj', callback_data='Sahebganj-260'),
+InlineKeyboardButton('Seraikela Kharsawan', callback_data='Seraikela Kharsawan-248'),
+],
+[
+InlineKeyboardButton('Simdega', callback_data='Simdega-249'),
+InlineKeyboardButton('West Singhbhum', callback_data='West Singhbhum-263'),
+]

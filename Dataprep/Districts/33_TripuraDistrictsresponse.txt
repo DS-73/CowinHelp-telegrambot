@@ -1,0 +1,9 @@
+ district_id district_name
+         614        Dhalai
+         615        Gomati
+         616        Khowai
+         617 North Tripura
+         618    Sepahijala
+         619 South Tripura
+         620       Unakoti
+         621  West Tripura

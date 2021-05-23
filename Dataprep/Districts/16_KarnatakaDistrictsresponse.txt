@@ -1,0 +1,32 @@
+ district_id    district_name
+         270         Bagalkot
+         276  Bangalore Rural
+         265  Bangalore Urban
+         294             BBMP
+         264          Belgaum
+         274          Bellary
+         272            Bidar
+         271   Chamarajanagar
+         273     Chikamagalur
+         291   Chikkaballapur
+         268      Chitradurga
+         269 Dakshina Kannada
+         275       Davanagere
+         278          Dharwad
+         280            Gadag
+         267         Gulbarga
+         289           Hassan
+         279           Haveri
+         283           Kodagu
+         277            Kolar
+         282           Koppal
+         290           Mandya
+         266           Mysore
+         284          Raichur
+         292       Ramanagara
+         287          Shimoga
+         288           Tumkur
+         286            Udupi
+         281    Uttar Kannada
+         293       Vijayapura
+         285           Yadgir

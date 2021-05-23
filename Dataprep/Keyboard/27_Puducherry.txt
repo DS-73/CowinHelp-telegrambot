@@ -1,0 +1,9 @@
+[
+[
+InlineKeyboardButton('Karaikal', callback_data='Karaikal-476'),
+InlineKeyboardButton('Mahe', callback_data='Mahe-477'),
+],
+[
+InlineKeyboardButton('Puducherry', callback_data='Puducherry-475'),
+InlineKeyboardButton('Yanam', callback_data='Yanam-478'),
+]

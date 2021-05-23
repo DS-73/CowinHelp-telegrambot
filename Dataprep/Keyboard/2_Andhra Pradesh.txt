@@ -1,0 +1,29 @@
+[
+[
+InlineKeyboardButton('Anantapur', callback_data='Anantapur-9'),
+InlineKeyboardButton('Chittoor', callback_data='Chittoor-10'),
+],
+[
+InlineKeyboardButton('East Godavari', callback_data='East Godavari-11'),
+InlineKeyboardButton('Guntur', callback_data='Guntur-5'),
+],
+[
+InlineKeyboardButton('Krishna', callback_data='Krishna-4'),
+InlineKeyboardButton('Kurnool', callback_data='Kurnool-7'),
+],
+[
+InlineKeyboardButton('Prakasam', callback_data='Prakasam-12'),
+InlineKeyboardButton('Sri Potti Sriramulu Nellore', callback_data='Sri Potti Sriramulu Nellore-13'),
+],
+[
+InlineKeyboardButton('Srikakulam', callback_data='Srikakulam-14'),
+InlineKeyboardButton('Visakhapatnam', callback_data='Visakhapatnam-8'),
+],
+[
+InlineKeyboardButton('Vizianagaram', callback_data='Vizianagaram-15'),
+InlineKeyboardButton('West Godavari', callback_data='West Godavari-16'),
+],
+[
+InlineKeyboardButton('YSR District, Kadapa (Cuddapah)', callback_data='YSR District, Kadapa (Cuddapah)-6'),
+]
+]

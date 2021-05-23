@@ -1,0 +1,5 @@
+[
+[
+InlineKeyboardButton('Daman', callback_data='Daman-138'),
+InlineKeyboardButton('Diu', callback_data='Diu-139'),
+]

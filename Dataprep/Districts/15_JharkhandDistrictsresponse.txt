@@ -1,0 +1,25 @@
+ district_id       district_name
+         242              Bokaro
+         245              Chatra
+         253             Deoghar
+         257             Dhanbad
+         258               Dumka
+         247      East Singhbhum
+         243              Garhwa
+         256             Giridih
+         262               Godda
+         251               Gumla
+         255          Hazaribagh
+         259             Jamtara
+         252              Khunti
+         241             Koderma
+         244             Latehar
+         250           Lohardaga
+         261               Pakur
+         246              Palamu
+         254             Ramgarh
+         240              Ranchi
+         260           Sahebganj
+         248 Seraikela Kharsawan
+         249             Simdega
+         263      West Singhbhum

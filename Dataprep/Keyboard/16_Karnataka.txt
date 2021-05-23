@@ -1,0 +1,65 @@
+[
+[
+InlineKeyboardButton('Bagalkot', callback_data='Bagalkot-270'),
+InlineKeyboardButton('Bangalore Rural', callback_data='Bangalore Rural-276'),
+],
+[
+InlineKeyboardButton('Bangalore Urban', callback_data='Bangalore Urban-265'),
+InlineKeyboardButton('BBMP', callback_data='BBMP-294'),
+],
+[
+InlineKeyboardButton('Belgaum', callback_data='Belgaum-264'),
+InlineKeyboardButton('Bellary', callback_data='Bellary-274'),
+],
+[
+InlineKeyboardButton('Bidar', callback_data='Bidar-272'),
+InlineKeyboardButton('Chamarajanagar', callback_data='Chamarajanagar-271'),
+],
+[
+InlineKeyboardButton('Chikamagalur', callback_data='Chikamagalur-273'),
+InlineKeyboardButton('Chikkaballapur', callback_data='Chikkaballapur-291'),
+],
+[
+InlineKeyboardButton('Chitradurga', callback_data='Chitradurga-268'),
+InlineKeyboardButton('Dakshina Kannada', callback_data='Dakshina Kannada-269'),
+],
+[
+InlineKeyboardButton('Davanagere', callback_data='Davanagere-275'),
+InlineKeyboardButton('Dharwad', callback_data='Dharwad-278'),
+],
+[
+InlineKeyboardButton('Gadag', callback_data='Gadag-280'),
+InlineKeyboardButton('Gulbarga', callback_data='Gulbarga-267'),
+],
+[
+InlineKeyboardButton('Hassan', callback_data='Hassan-289'),
+InlineKeyboardButton('Haveri', callback_data='Haveri-279'),
+],
+[
+InlineKeyboardButton('Kodagu', callback_data='Kodagu-283'),
+InlineKeyboardButton('Kolar', callback_data='Kolar-277'),
+],
+[
+InlineKeyboardButton('Koppal', callback_data='Koppal-282'),
+InlineKeyboardButton('Mandya', callback_data='Mandya-290'),
+],
+[
+InlineKeyboardButton('Mysore', callback_data='Mysore-266'),
+InlineKeyboardButton('Raichur', callback_data='Raichur-284'),
+],
+[
+InlineKeyboardButton('Ramanagara', callback_data='Ramanagara-292'),
+InlineKeyboardButton('Shimoga', callback_data='Shimoga-287'),
+],
+[
+InlineKeyboardButton('Tumkur', callback_data='Tumkur-288'),
+InlineKeyboardButton('Udupi', callback_data='Udupi-286'),
+],
+[
+InlineKeyboardButton('Uttar Kannada', callback_data='Uttar Kannada-281'),
+InlineKeyboardButton('Vijayapura', callback_data='Vijayapura-293'),
+],
+[
+InlineKeyboardButton('Yadgir', callback_data='Yadgir-285'),
+]
+]

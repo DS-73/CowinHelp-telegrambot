@@ -1,0 +1,5 @@
+[
+[
+InlineKeyboardButton('Kargil', callback_data='Kargil-309'),
+InlineKeyboardButton('Leh', callback_data='Leh-310'),
+]

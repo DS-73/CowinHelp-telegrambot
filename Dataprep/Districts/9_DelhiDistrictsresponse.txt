@@ -1,0 +1,12 @@
+ district_id    district_name
+         141    Central Delhi
+         145       East Delhi
+         140        New Delhi
+         146      North Delhi
+         147 North East Delhi
+         143 North West Delhi
+         148         Shahdara
+         149      South Delhi
+         144 South East Delhi
+         150 South West Delhi
+         142       West Delhi

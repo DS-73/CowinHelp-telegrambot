@@ -1,0 +1,93 @@
+[
+[
+InlineKeyboardButton('Aranthangi', callback_data='Aranthangi-779'),
+InlineKeyboardButton('Ariyalur', callback_data='Ariyalur-555'),
+],
+[
+InlineKeyboardButton('Attur', callback_data='Attur-578'),
+InlineKeyboardButton('Chengalpet', callback_data='Chengalpet-565'),
+],
+[
+InlineKeyboardButton('Chennai', callback_data='Chennai-571'),
+InlineKeyboardButton('Cheyyar', callback_data='Cheyyar-778'),
+],
+[
+InlineKeyboardButton('Coimbatore', callback_data='Coimbatore-539'),
+InlineKeyboardButton('Cuddalore', callback_data='Cuddalore-547'),
+],
+[
+InlineKeyboardButton('Dharmapuri', callback_data='Dharmapuri-566'),
+InlineKeyboardButton('Dindigul', callback_data='Dindigul-556'),
+],
+[
+InlineKeyboardButton('Erode', callback_data='Erode-563'),
+InlineKeyboardButton('Kallakurichi', callback_data='Kallakurichi-552'),
+],
+[
+InlineKeyboardButton('Kanchipuram', callback_data='Kanchipuram-557'),
+InlineKeyboardButton('Kanyakumari', callback_data='Kanyakumari-544'),
+],
+[
+InlineKeyboardButton('Karur', callback_data='Karur-559'),
+InlineKeyboardButton('Kovilpatti', callback_data='Kovilpatti-780'),
+],
+[
+InlineKeyboardButton('Krishnagiri', callback_data='Krishnagiri-562'),
+InlineKeyboardButton('Madurai', callback_data='Madurai-540'),
+],
+[
+InlineKeyboardButton('Nagapattinam', callback_data='Nagapattinam-576'),
+InlineKeyboardButton('Namakkal', callback_data='Namakkal-558'),
+],
+[
+InlineKeyboardButton('Nilgiris', callback_data='Nilgiris-577'),
+InlineKeyboardButton('Palani', callback_data='Palani-564'),
+],
+[
+InlineKeyboardButton('Paramakudi', callback_data='Paramakudi-573'),
+InlineKeyboardButton('Perambalur', callback_data='Perambalur-570'),
+],
+[
+InlineKeyboardButton('Poonamallee', callback_data='Poonamallee-575'),
+InlineKeyboardButton('Pudukkottai', callback_data='Pudukkottai-546'),
+],
+[
+InlineKeyboardButton('Ramanathapuram', callback_data='Ramanathapuram-567'),
+InlineKeyboardButton('Ranipet', callback_data='Ranipet-781'),
+],
+[
+InlineKeyboardButton('Salem', callback_data='Salem-545'),
+InlineKeyboardButton('Sivaganga', callback_data='Sivaganga-561'),
+],
+[
+InlineKeyboardButton('Sivakasi', callback_data='Sivakasi-580'),
+InlineKeyboardButton('Tenkasi', callback_data='Tenkasi-551'),
+],
+[
+InlineKeyboardButton('Thanjavur', callback_data='Thanjavur-541'),
+InlineKeyboardButton('Theni', callback_data='Theni-569'),
+],
+[
+InlineKeyboardButton('Thoothukudi (Tuticorin)', callback_data='Thoothukudi (Tuticorin)-554'),
+InlineKeyboardButton('Tiruchirappalli', callback_data='Tiruchirappalli-560'),
+],
+[
+InlineKeyboardButton('Tirunelveli', callback_data='Tirunelveli-548'),
+InlineKeyboardButton('Tirupattur', callback_data='Tirupattur-550'),
+],
+[
+InlineKeyboardButton('Tiruppur', callback_data='Tiruppur-568'),
+InlineKeyboardButton('Tiruvallur', callback_data='Tiruvallur-572'),
+],
+[
+InlineKeyboardButton('Tiruvannamalai', callback_data='Tiruvannamalai-553'),
+InlineKeyboardButton('Tiruvarur', callback_data='Tiruvarur-574'),
+],
+[
+InlineKeyboardButton('Vellore', callback_data='Vellore-543'),
+InlineKeyboardButton('Viluppuram', callback_data='Viluppuram-542'),
+],
+[
+InlineKeyboardButton('Virudhunagar', callback_data='Virudhunagar-549'),
+]
+]

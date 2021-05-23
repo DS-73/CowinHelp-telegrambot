@@ -1,0 +1,61 @@
+[
+[
+InlineKeyboardButton('Alipurduar District', callback_data='Alipurduar District-710'),
+InlineKeyboardButton('Bankura', callback_data='Bankura-711'),
+],
+[
+InlineKeyboardButton('Basirhat HD (North 24 Parganas)', callback_data='Basirhat HD (North 24 Parganas)-712'),
+InlineKeyboardButton('Birbhum', callback_data='Birbhum-713'),
+],
+[
+InlineKeyboardButton('Bishnupur HD (Bankura)', callback_data='Bishnupur HD (Bankura)-714'),
+InlineKeyboardButton('Cooch Behar', callback_data='Cooch Behar-715'),
+],
+[
+InlineKeyboardButton('COOCHBEHAR', callback_data='COOCHBEHAR-783'),
+InlineKeyboardButton('Dakshin Dinajpur', callback_data='Dakshin Dinajpur-716'),
+],
+[
+InlineKeyboardButton('Darjeeling', callback_data='Darjeeling-717'),
+InlineKeyboardButton('Diamond Harbor HD (S 24 Parganas)', callback_data='Diamond Harbor HD (S 24 Parganas)-718'),
+],
+[
+InlineKeyboardButton('East Bardhaman', callback_data='East Bardhaman-719'),
+InlineKeyboardButton('Hoogly', callback_data='Hoogly-720'),
+],
+[
+InlineKeyboardButton('Howrah', callback_data='Howrah-721'),
+InlineKeyboardButton('Jalpaiguri', callback_data='Jalpaiguri-722'),
+],
+[
+InlineKeyboardButton('Jhargram', callback_data='Jhargram-723'),
+InlineKeyboardButton('Kalimpong', callback_data='Kalimpong-724'),
+],
+[
+InlineKeyboardButton('Kolkata', callback_data='Kolkata-725'),
+InlineKeyboardButton('Malda', callback_data='Malda-726'),
+],
+[
+InlineKeyboardButton('Murshidabad', callback_data='Murshidabad-727'),
+InlineKeyboardButton('Nadia', callback_data='Nadia-728'),
+],
+[
+InlineKeyboardButton('Nandigram HD (East Medinipore)', callback_data='Nandigram HD (East Medinipore)-729'),
+InlineKeyboardButton('North 24 Parganas', callback_data='North 24 Parganas-730'),
+],
+[
+InlineKeyboardButton('Paschim Medinipore', callback_data='Paschim Medinipore-731'),
+InlineKeyboardButton('Purba Medinipore', callback_data='Purba Medinipore-732'),
+],
+[
+InlineKeyboardButton('Purulia', callback_data='Purulia-733'),
+InlineKeyboardButton('Rampurhat HD (Birbhum)', callback_data='Rampurhat HD (Birbhum)-734'),
+],
+[
+InlineKeyboardButton('South 24 Parganas', callback_data='South 24 Parganas-735'),
+InlineKeyboardButton('Uttar Dinajpur', callback_data='Uttar Dinajpur-736'),
+],
+[
+InlineKeyboardButton('West Bardhaman', callback_data='West Bardhaman-737'),
+]
+]

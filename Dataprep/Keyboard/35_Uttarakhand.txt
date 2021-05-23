@@ -1,0 +1,29 @@
+[
+[
+InlineKeyboardButton('Almora', callback_data='Almora-704'),
+InlineKeyboardButton('Bageshwar', callback_data='Bageshwar-707'),
+],
+[
+InlineKeyboardButton('Chamoli', callback_data='Chamoli-699'),
+InlineKeyboardButton('Champawat', callback_data='Champawat-708'),
+],
+[
+InlineKeyboardButton('Dehradun', callback_data='Dehradun-697'),
+InlineKeyboardButton('Haridwar', callback_data='Haridwar-702'),
+],
+[
+InlineKeyboardButton('Nainital', callback_data='Nainital-709'),
+InlineKeyboardButton('Pauri Garhwal', callback_data='Pauri Garhwal-698'),
+],
+[
+InlineKeyboardButton('Pithoragarh', callback_data='Pithoragarh-706'),
+InlineKeyboardButton('Rudraprayag', callback_data='Rudraprayag-700'),
+],
+[
+InlineKeyboardButton('Tehri Garhwal', callback_data='Tehri Garhwal-701'),
+InlineKeyboardButton('Udham Singh Nagar', callback_data='Udham Singh Nagar-705'),
+],
+[
+InlineKeyboardButton('Uttarkashi', callback_data='Uttarkashi-703'),
+]
+]

@@ -1,0 +1,2 @@
+ district_id          district_name
+         137 Dadra and Nagar Haveli

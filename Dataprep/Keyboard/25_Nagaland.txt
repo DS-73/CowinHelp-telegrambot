@@ -1,0 +1,25 @@
+[
+[
+InlineKeyboardButton('Dimapur', callback_data='Dimapur-434'),
+InlineKeyboardButton('Kiphire', callback_data='Kiphire-444'),
+],
+[
+InlineKeyboardButton('Kohima', callback_data='Kohima-441'),
+InlineKeyboardButton('Longleng', callback_data='Longleng-438'),
+],
+[
+InlineKeyboardButton('Mokokchung', callback_data='Mokokchung-437'),
+InlineKeyboardButton('Mon', callback_data='Mon-439'),
+],
+[
+InlineKeyboardButton('Peren', callback_data='Peren-435'),
+InlineKeyboardButton('Phek', callback_data='Phek-443'),
+],
+[
+InlineKeyboardButton('Tuensang', callback_data='Tuensang-440'),
+InlineKeyboardButton('Wokha', callback_data='Wokha-436'),
+],
+[
+InlineKeyboardButton('Zunheboto', callback_data='Zunheboto-442'),
+]
+]
