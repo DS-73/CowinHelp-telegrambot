@@ -1,7 +1,7 @@
 ### ReadME
 
 ## Objective
-Objective of this peoject is to create all in one telegram-bot solution for finding vaccination slots for COVID-19 virus. 
+The objective of this project is to create all in one telegram-bot solution for finding vaccination slots for the COVID-19 virus. 
 
 ## Description 
 In this project, we have developed a CoWin help bot in order to help users in finding vaccination slots in their region.
@@ -9,7 +9,7 @@ In this project, we have developed a CoWin help bot in order to help users in fi
 It allows the user to find and locate vaccination centers with just a few simple clicks. Thus, eliminating the hassle of finding open vaccination centers in their region.
 
 
-   Telegram Bot - 	
+
 	
    ![](Images/1.PNG)
 
@@ -20,6 +20,8 @@ It allows the user to find and locate vaccination centers with just a few simple
 
 Operating System - Windows 10
 
+Telegram Bot - @project_cowinbot
+
 Softwares : 
 	
 	- Python 3
@@ -29,9 +31,9 @@ Softwares :
 	- Visual Studio Code
 	
 	
-# Contributors
+# Contributor
 1. Dhruv Saini  
-     . LinkedIN - https://www.linkedin.com/in/dhruv73
+     . LinkedIN - https://www.linkedin.com/in/dhruv73                               
      . VideoDemonstration - https://youtu.be/iDUA5YrvDHY
      
 # Requirements
