@@ -40,8 +40,9 @@ URL = 'https://selfregistration.cowin.gov.in/'
 logger = logging.getLogger(__name__)
 TOKEN = "YOUR_TOKEN_HERE"
 
+# Function for start command
 def start(update, context):
-    author = update.message.from_user.first_name
+    author = update.message.from_user.first_name 
     reply = """ Hello *{}*! ✋
 
     I am *Cowin* help bot. 🤖
@@ -54,6 +55,7 @@ def start(update, context):
 
     update.message.reply_text(reply, parse_mode="markdown")
 
+    # Updating basic details whenever a new user starts the bot
     global FIRSTNAME
     global LASTNAME
     global ID 
@@ -66,6 +68,7 @@ def start(update, context):
     USERNAME = update.message.from_user.username
     CHATID = update.message.chat_id
 
+# Function for help command
 def help(update, context):
     text = f'''👨‍🚀 *HELP* 👨‍🚀
     It is our help section.
@@ -78,11 +81,14 @@ def help(update, context):
             1. */start:* to start the bot.
             2. */state:* to add your state.
             3. */pincode:* to add pincode of your region.
+                - *Format:* /pincode [YOUR_PINCODE]
+
             4. */age:* to update your age preference.
             5. */help:* to see help menu.
-            6. */slot_today:* to check slot today in your region.
-            7. */slot_tomorrow:* to check slot tomorrow in your region.
-        
+            6. */about:* to view developer's details. 
+            7. */slot_today:* to check slot today in your region.
+            8. */slot_tomorrow:* to check slot tomorrow in your region.
+
         *Steps* -
             1. Start your bot using /start. 
             2. Add State or Pincode using /state or /pincode.
@@ -93,6 +99,7 @@ def help(update, context):
     '''
     update.message.reply_text(text, parse_mode="markdown")
 
+# Function for echoing text and responding to wrong commands entered by user
 def echo_text(update, context):
     text = update.message.text
     if text[0] == '/':
@@ -110,12 +117,15 @@ def echo_text(update, context):
     Echo: '''+ text
     update.message.reply_text(output, parse_mode="markdown")
 
+# Function district to update district details of user
 def district(update, context, STATE_ID, STATE):
     STATE_ID = int(STATE_ID)
     text = f'''👾 *Select District* 👾 
     
     👇👇👇👇👇👇👇👇👇
     '''
+
+    # Selection keyboard based on user's STATE ID
     if STATE_ID == 1:
         update.effective_chat.send_message(text, reply_markup=idk.get_district_1(), parse_mode="markdown")
     elif STATE_ID == 2:
@@ -191,6 +201,9 @@ def district(update, context, STATE_ID, STATE):
     elif STATE_ID == 37:
         update.effective_chat.send_message(text, reply_markup=idk.get_district_37(), parse_mode="markdown")
  
+ #
+
+# Keyboard for all states
 def get_states_kb() -> InlineKeyboardMarkup:
     keyboard = [
                 [
@@ -271,7 +284,10 @@ def get_states_kb() -> InlineKeyboardMarkup:
     ]
     return InlineKeyboardMarkup(keyboard)
 
+# Function state list for user to select one state
 def states_list(update, context):
+    global PINCODE
+    PINCODE = ""
     text = f'''👾 *Select State* 👾 
     
     👇👇👇👇👇👇👇👇👇
@@ -279,6 +295,7 @@ def states_list(update, context):
     update.effective_chat.send_message(text, reply_markup=get_states_kb(), parse_mode="markdown")
     return
 
+# Callback function of state 
 def states_list_callback(update, context):
     query = update.callback_query
     query.answer()
@@ -308,13 +325,16 @@ def states_list_callback(update, context):
     
     district(update, context, STATEID, STATE)
 
+# Function to echo sticker as a response to user sticker
 def echo_sticker(update, context):
     text = update.message.text
     update.message.reply_sticker(sticker=update.message.sticker.file_id)
 
+# Error fucntion for logging error
 def error(update, context):
     logger.warning('Update "%s" caused  "%s"', update, context.error)
 
+# Age keyboard
 def get_age_kb() -> InlineKeyboardMarkup:
     keyboard = [
         [
@@ -324,6 +344,7 @@ def get_age_kb() -> InlineKeyboardMarkup:
     ]
     return InlineKeyboardMarkup(keyboard)
 
+# Function for handling age command
 def age_command(update, context):
     text = f'''👾 *Select Age* 👾 
     
@@ -332,6 +353,7 @@ def age_command(update, context):
     update.effective_chat.send_message(text, reply_markup=get_age_kb(), parse_mode="markdown")
     return
 
+# Age callback function to handle users preference for age group
 def age_callback(update, context):
     query = update.callback_query
     query.answer()
@@ -352,7 +374,24 @@ def age_callback(update, context):
     ✔️✔️✔️✔️✔️✔️✔️✔️
     '''
     query.edit_message_text(text, parse_mode="markdown")
+
+# About section with information of developer
+def about(update, context):
+    text = f'''👨‍💻 *About Section* 👨‍💻
+    *Hello*, I am Dhruv Saini, the *developer* of this bot.
     
+    In the beginning,
+    I had an objective to help people find vaccination slot.  
+    And this is my solution for the problem.
+
+    *My profiles* 
+    LinkedIN - https://www.linkedin.com/in/dhruv73
+    GitHub   - https://github.com/DS-73
+
+    '''
+    update.message.reply_text(text, parse_mode="markdown")
+
+# Button to handle in-general callbacks form inline keyboards
 def button(update, context):
     query = update.callback_query
     query.answer()
@@ -387,23 +426,56 @@ def button(update, context):
     query.edit_message_text(text)
     age_command(update, context)
 
+# Function to handle pincode command
 def pincode_command(update, context):
-    text = f'''👾 *Pincode Section* 👾 
+    text = update.message.text
+    global PINCODE
+    PINCODE = text[9:]
+    PINCODE = PINCODE.strip()
+    
+    # Resetting District to avoid searching acccording to districts
+    global DISTRICTID 
+    DISTRICTID = ""
+    text = ""
+    
+    # Validating Pincode entered by user
+    try:
+        pin = int(PINCODE)
+        validate_pin = lambda pin: len(pin) in (6) and pin.isdigit()
+        if not validate_pin:
+            raise Exception
+    except:
+        text = f'''👾  *INVALID PINCODE*  👾
+
+        Please enter a *valid* pincode using /pincode command.👨‍💻
+        ❗️ Format ❗️ - /pincode [YOUR_PINCODE]
+        '''       
+        update.effective_chat.send_message(text, parse_mode="markdown")
+        return
+
+    # Incase of valid pincode
+    text = f'''👾 *Pincode Updates* 👾 
     
     👇👇👇👇👇👇👇👇👇
-        This Section is under-construction.
-        You can use /state command.
-
+    Pincode: {PINCODE}
     '''
     update.effective_chat.send_message(text, parse_mode="markdown")
+    age_command(update, context)
+
     return
 
+# Function to check from slot today
 def get_slot_today(update, context):
+    # CoWIN Official website url
+    URL = 'https://selfregistration.cowin.gov.in/'
+    
+    # Returing back if required details are not found
     if len(DISTRICTID) == 0  and len(PINCODE) == 0:
-        text = f"NOT ENOUGH DETAILS!!!! {DISTRICTID}:{PINCODE}"
+        text = f"NOT ENOUGH DETAILS!!!!"
         update.message.reply_text(text)
         
     else:
+        # Using CoWIN API to search for a slot 
         cowin = CoWinAPI()
         today =  date.today()
         DATE = today.strftime("%d-%m-%Y") 
@@ -412,7 +484,9 @@ def get_slot_today(update, context):
         elif len(PINCODE) > 0:
             available_centers = cowin.get_availability_by_pincode(PINCODE, DATE, AGE)
 
+    # Update flag False in case of no vaccination slot 
     UPDATE = False
+    # Replying user with deatils of vaccination center with available slots
     if len(available_centers["centers"]) > 0:       
         URL = 'https://selfregistration.cowin.gov.in/'
         for x in available_centers["centers"]:
@@ -423,29 +497,32 @@ def get_slot_today(update, context):
             center_fee = x["fee_type"]
             
             for items in x["sessions"]:
-                vaccines = []
                 if items["available_capacity_dose1"]>0 and items["available_capacity_dose2"]>0:
-                    if items['vaccine'] not in vaccines:
-                        vaccines.append(items['vaccine'])
-
+                    VACCINE = items['vaccine']
                     DOSE1 = items["available_capacity_dose1"]
                     DOSE2 = items["available_capacity_dose2"]
                     MIN_AGE_LIMIT = items["min_age_limit"]
 
-                    text = f"Name: {center_name}\nDistrict: {center_district}\nAddress: {center_address}\nPincode:{center_pincode}\n\nFees: {center_fee}\nDate: {DATE}\nDose1: {DOSE1}\nDose2: {DOSE2}\nAge Limit: {MIN_AGE_LIMIT}\n{URL}"
+                    text = f"Name: {center_name}\nDistrict: {center_district}\nAddress: {center_address}\nPincode:{center_pincode}\n\nFees: {center_fee}\nVaccine: {VACCINE}\nDate: {DATE}\nDose1: {DOSE1}\nDose2: {DOSE2}\nAge Limit: {MIN_AGE_LIMIT}\n{URL}"
                     update.message.reply_text(text)
                     UPDATE = True
 
+    # Replying with no slot in case of slot unavailablility of slot
     if not UPDATE:
         text = f"No Slot Available on {DATE} in your region.\n\nFor more information \n{URL}"
         update.message.reply_text(text)
 
+# Function to check from slot tomorrow
 def get_slot_tomorrow(update, context):
+    # CoWIN Official website url
+    URL = 'https://selfregistration.cowin.gov.in/'
+    # Returing back if required details are not found
     if len(DISTRICTID) == 0  and len(PINCODE) == 0:
         text = f"NOT ENOUGH DETAILS!!!! {DISTRICTID}:{PINCODE}"
         update.message.reply_text(text)
         
     else:
+        # Using CoWIN API to search for a slot
         cowin = CoWinAPI()
         today =  date.today() + timedelta(1)
         DATE = today.strftime("%d-%m-%Y") 
@@ -454,7 +531,9 @@ def get_slot_tomorrow(update, context):
         elif len(PINCODE) > 0:
             available_centers = cowin.get_availability_by_pincode(PINCODE, DATE, AGE)
 
+    # Update flag False in case of no vaccination slot
     UPDATE = False
+    # Replying user with deatils of vaccination center with available slots
     if len(available_centers["centers"]) > 0:       
         URL = 'https://selfregistration.cowin.gov.in/'
         for x in available_centers["centers"]:
@@ -473,23 +552,30 @@ def get_slot_tomorrow(update, context):
                     DOSE1 = items["available_capacity_dose1"]
                     DOSE2 = items["available_capacity_dose2"]
                     MIN_AGE_LIMIT = items["min_age_limit"]
+                    VACCINE = vaccines[0]
 
-                    text = f"Name: {center_name}\nDistrict: {center_district}\nAddress: {center_address}\nPincode:{center_pincode}\n\nFees: {center_fee}\nDate: {DATE}\nDose1: {DOSE1}\nDose2: {DOSE2}\nAge Limit: {MIN_AGE_LIMIT}\n{URL}"
+                    text = f"Name: {center_name}\nDistrict: {center_district}\nAddress: {center_address}\nPincode:{center_pincode}\n\nFees: {center_fee}\nVaccine: {VACCINE}\nDate: {DATE}\nDose1: {DOSE1}\nDose2: {DOSE2}\nAge Limit: {MIN_AGE_LIMIT}\n{URL}"
                     update.message.reply_text(text)
                     UPDATE = True
 
+    # Replying with no slot in case of slot unavailablility of slot
     if not UPDATE:
         text = f"No Slot Available on {DATE} in your region.\n\nFor more information \n{URL}"
         update.message.reply_text(text)
-    
+
+# Main function of our code
 def main():
     bot = Bot(TOKEN)
+    
+    # Setting bot commands for quick access
     bot.set_my_commands([
         BotCommand(command='start', description='start the bot session'),
         BotCommand(command='help', description='provide help in using bot'),
+        BotCommand(command='about', description='this is about section of developer'),
         BotCommand(command='state', description='update your state and district'),
         BotCommand(command='pincode', description='update pincode'),
         BotCommand(command='age', description='update age preference'),
+        BotCommand(command='about', description='to view bot developer\'s detail'),
         BotCommand(command='slot_today', description='Check slot for today in your region'),
         BotCommand(command='slot_tomorrow', description='Check slot for tomorrow in your region'),
     ])
@@ -498,12 +584,14 @@ def main():
 
     dispacher_obj = updater.dispatcher
 
+    # Various different handlers 
     dispacher_obj.add_handler(CommandHandler("start", start))
     dispacher_obj.add_handler(CommandHandler("help", help))
     dispacher_obj.add_handler(CommandHandler("state", states_list))
     dispacher_obj.add_handler(CommandHandler("slot_today", get_slot_today))
     dispacher_obj.add_handler(CommandHandler("slot_tomorrow", get_slot_tomorrow))
     dispacher_obj.add_handler(CommandHandler("age", age_command))
+    dispacher_obj.add_handler(CommandHandler("about", about))
     dispacher_obj.add_handler(CommandHandler("pincode", pincode_command))
 
     dispacher_obj.add_handler(CallbackQueryHandler(age_callback, pattern=AGE_BUTTON_REGEX))
