@@ -69,4 +69,12 @@ Softwares :
 
 
 	![](Images/3.PNG)
+
+
+
+4.  About developer
+
+
+	![](Images/5.PNG)
+
 	
